@@ -32,4 +32,4 @@ puts "Done!"          # 3
 
 # 1: index = 0
 # 2: index is not greater than 2, end
-# 3: prints out "Done!"
+# 3: prints out "Done!" 
