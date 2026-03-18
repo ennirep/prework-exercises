@@ -4,7 +4,7 @@
 # store the result in a third variable. Finally, print out the third variable.
 
 x = 2
-y = legit
+y = "legit"
 
 z = x.to_s + y
 
@@ -13,8 +13,9 @@ puts z
 # QUESTION 2
 # The code below has a mistake in it. Run the code to see the error message,
 # then explain what the error message means and what would need to change to fix it.
+
 x = 10
-puts x + y
 y = x
 
-
+puts x + y
+ 
